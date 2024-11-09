@@ -152,61 +152,76 @@ while running:
             all_sprites.remove(sprite2)
             won = True
         
+        
         if sprite1.rect.colliderect(sprite3.rect):
             
             all_sprites.remove(sprite3)
             
+        
         if sprite1.rect.colliderect(sprite4.rect):
             
             all_sprites.remove(sprite4)
+        
         
         if sprite1.rect.colliderect(sprite5.rect):
             
             all_sprites.remove(sprite5)
             
+        
         if sprite1.rect.colliderect(sprite6.rect):
             
             all_sprites.remove(sprite6)
             
+        
         if sprite1.rect.colliderect(sprite7.rect):
             
             all_sprites.remove(sprite7)
             
+        
         if sprite1.rect.colliderect(sprite8.rect):
             
             all_sprites.remove(sprite8)
             
+        
         if sprite1.rect.colliderect(sprite9.rect):
             
             all_sprites.remove(sprite9)
             
+        
         if sprite1.rect.colliderect(sprite10.rect):
             
             all_sprites.remove(sprite10)
             
+        
         if sprite1.rect.colliderect(sprite11.rect):
             
             all_sprites.remove(sprite11)
             
+        
         if sprite1.rect.colliderect(sprite12.rect):
             
             all_sprites.remove(sprite12)
             
+        
         if sprite1.rect.colliderect(sprite13.rect):
             
             all_sprites.remove(sprite13)
             
+        
         if sprite1.rect.colliderect(sprite14.rect):
             
             all_sprites.remove(sprite14)
             
+        
         if sprite1.rect.colliderect(sprite15.rect):
             
             all_sprites.remove(sprite15)
             
+        
         if sprite1.rect.colliderect(sprite16.rect):
             
             all_sprites.remove(sprite16)
+        
         
         if sprite1.rect.colliderect(sprite17.rect):
             
